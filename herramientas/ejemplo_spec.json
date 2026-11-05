@@ -1,0 +1,72 @@
+{
+ "handle": "@bolsaen1minuto",
+ "escenas": [
+  {
+   "tipo": "gancho",
+   "dur": 3.2,
+   "etiqueta_superior": "HOY EN EL IBEX",
+   "linea1": "GANA UN 71 %",
+   "linea2": "MENOS... Y SUBE",
+   "cifra": "+5,8 %",
+   "color": "verde",
+   "sub": "ArcelorMittal, hoy en bolsa"
+  },
+  {
+   "tipo": "tabla",
+   "dur": 5.4,
+   "etiqueta_superior": "QUÉ PASÓ",
+   "titulo": "Resultados de 9 meses",
+   "filas": [
+    [
+     "Rovi beneficio",
+     "+67 %",
+     "verde"
+    ],
+    [
+     "Rovi en bolsa",
+     "+6,6 %",
+     "verde"
+    ],
+    [
+     "ArcelorMittal benef.",
+     "−71 %",
+     "rojo"
+    ],
+    [
+     "ArcelorMittal bolsa",
+     "+5,8 %",
+     "verde"
+    ]
+   ],
+   "nota": "Apertura del jueves 5 de noviembre"
+  },
+  {
+   "tipo": "texto",
+   "dur": 5.0,
+   "etiqueta_superior": "ROVI",
+   "titulo": "Rovi: lo lógico",
+   "cuerpo": "Gana 162,8 millones, un 67 % más, y la acción sube"
+  },
+  {
+   "tipo": "texto",
+   "dur": 5.5,
+   "etiqueta_superior": "ARCELORMITTAL",
+   "titulo": "ArcelorMittal: lo raro",
+   "cuerpo": "Su beneficio cae de 2.975 a 867 millones de dólares... y la acción también sube"
+  },
+  {
+   "tipo": "texto",
+   "dur": 6.0,
+   "etiqueta_superior": "EL MOTIVO",
+   "titulo": "¿Cómo puede ser?",
+   "cuerpo": "La bolsa no compara con el año pasado: compara con lo que ESPERABA",
+   "despues": "Si esperaba algo peor, un mal dato puede hacer subir la acción"
+  },
+  {
+   "tipo": "leccion",
+   "dur": 6.0,
+   "etiqueta_superior": "LECCIÓN",
+   "texto": "En bolsa no importa si es bueno o malo, importa si es MEJOR o PEOR de lo esperado"
+  }
+ ]
+}
